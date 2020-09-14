@@ -13,7 +13,7 @@ If user is logged in as *Admin* they'll have greater privileges and access.
 ### 1.  audio, video and image gallery.
 The projects includes three separate galleries for audio, video and audio files.
 
-### 2.  File uplaods
+### 2.  File uploads 
 A simple upload form for uploading files to the gallery.
 
 ### 3.  Automatic sorting of files
@@ -63,7 +63,7 @@ This contains the home page (index.php). In addition it contains all pages with 
     * /images
     * /includes
     * /uploads
-The first 4 folders are self explanatory in my opinion.
+The first 4 folders are quite self explanatory in my opinion.
 
 * ### /includes
 This contains all the pure PHP files which include form handlers, database handlers, connections, etc.
